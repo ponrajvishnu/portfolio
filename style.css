@@ -322,7 +322,7 @@ body{
     .navbar-sub.responsive {
         position: absolute;
         top: 18px;
-        right: 15px;
+        right: 35px;
         flex-direction: column;
     }
     .navbar-sub .nav-link{
